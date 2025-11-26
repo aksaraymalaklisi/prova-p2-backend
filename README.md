@@ -7,7 +7,7 @@ Para instalar:
 1. **Clone o repositório:**
 
    ```bash
-   git clone <tenho que colocar o link do repo aqui>
+   git clone https://github.com/aksaraymalaklisi/prova-p2-backend.git
    cd gerenciador-categorias
    ```
 
