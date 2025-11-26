@@ -8,7 +8,7 @@ Para instalar:
 
    ```bash
    git clone https://github.com/aksaraymalaklisi/prova-p2-backend.git
-   cd gerenciador-categorias
+   cd prova-p2-backend
    ```
 
 2. **Instale as dependências (e Sail)**
