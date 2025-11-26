@@ -46,4 +46,6 @@ Para instalar:
     ./vendor/bin/sail artisan migrate
     ```
 
-O projeto estará em <http://localhost:8080> (ou <http://localhost>).
+O projeto estará em <http://localhost:8080> (ou <http://localhost>):
+
+![imagem da página rodando](md_imgs/image.png)
